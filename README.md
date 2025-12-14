@@ -8,7 +8,7 @@ Pengembangan sistem difokuskan pada penerapan **Machine Learning Operations (MLO
 
 ## ML Canvas
 
-![Image](ML CANVAS_10.jpg)
+![Image](ML_CANVAS_10.jpg)
 
 ### 1. Background
 Curah hujan harian merupakan informasi penting dalam mendukung aktivitas masyarakat, pertanian, dan mitigasi risiko di wilayah Lampung Selatan. Namun, data cuaca bersifat dinamis dan dapat berubah seiring waktu, sehingga model prediksi yang tidak dikelola secara berkelanjutan berpotensi mengalami penurunan performa.
